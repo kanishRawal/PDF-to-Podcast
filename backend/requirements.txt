@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+google-genai
+edge-tts
+pydub
+python-dotenv
+audioop-lts
+static-ffmpeg
